@@ -10,4 +10,5 @@ header a:hover, a:visited {
   font-family: 'Ubuntu', sans-serif;
   text-align: center;
   text-decoration: none;
+  color: green;
 }
