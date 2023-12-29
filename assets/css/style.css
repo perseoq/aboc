@@ -13,6 +13,7 @@ header a, a:hover, a:visited {
 
 header h1 {
   text-decoration: none;
+  font-family: 'Ubuntu', sans-serif;
   color: #243654;
 }
 
@@ -32,6 +33,12 @@ a, a:hover, a:visited{
   font-family: 'Noto Sans', sans-serif;
   font-weight: bold;
   text-decoration: none;
+}
+
+#sidebar a, a:hover, a:visited{
+  font-family: 'Noto Sans', sans-serif;
+  text-decoration: none;
+  color: pink;
 }
 
 
