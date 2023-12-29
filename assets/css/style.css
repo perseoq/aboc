@@ -5,3 +5,9 @@ header{
   text-align: center;
   text-decoration: none;
 }
+
+header a:hover, a:visited {
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  text-decoration: none;
+}
