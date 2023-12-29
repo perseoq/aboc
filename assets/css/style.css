@@ -29,10 +29,11 @@ header h1.a, h1.a:hover, h1.a:visited {
   width: 60%;
 }
 
-a, a:hover, a:visited{
+#main-content a, a:hover, a:visited{
   font-family: 'Noto Sans', sans-serif;
   font-weight: bold;
   text-decoration: none;
+  color: black;
 }
 
 #sidebar a, a:hover, a:visited{
