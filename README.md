@@ -35,6 +35,7 @@ void handleRegister(const http_request& request) {
 
 
 ```python
+# comentario en python
 @login_manager.user_loader
 def load_admin_or_user(id):
     admin = Admin.query.get(int(id))
@@ -53,6 +54,29 @@ def load_admin_or_user(id):
     "versiones": ["estandar","automático"],
     "Es nuevo": false
 }
+```
+
+```css
+/* comentarios es css */
+.k{
+  font-weight: bold;
+  color: chartreuse;
+}
+```
+
+```html
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- cometario -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+  </head>
+  <body>
+    <h1>Hello, world!</h1>
+  </body>
+</html>
 ```
 
 
