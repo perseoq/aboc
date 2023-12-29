@@ -48,5 +48,13 @@ header h1.a, h1.a:hover, h1.a:visited {
   color: #FE2E64;
 }
 
+#content-wrapper h1, h2{
+  text-align: center;
+}
+
+#main-content p{
+  text-align: justify;
+}
+
 
 
