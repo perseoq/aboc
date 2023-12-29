@@ -56,5 +56,9 @@ header h1.a, h1.a:hover, h1.a:visited {
   text-align: justify;
 }
 
+#content-wrapper h2{
+  font-size: 16pt;
+}
+
 
 
