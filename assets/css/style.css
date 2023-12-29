@@ -27,3 +27,14 @@ header h1.a, h1.a:hover, h1.a:visited {
   margin: 0 auto;
   width: 60%;
 }
+
+#content-wrapper p.a, p.a:hover, p.a:visited{
+  font-weight: bold;
+}
+
+#content-wrapper p{
+  font-family: 'Quicksand', sans-serif;
+}
+
+
+
