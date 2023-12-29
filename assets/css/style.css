@@ -29,6 +29,7 @@ header h1.a, h1.a:hover, h1.a:visited {
 }
 
 a, a:hover, a:visited{
+  font-family: 'Noto Sans', sans-serif;
   font-weight: bold;
   text-decoration: none;
 }
