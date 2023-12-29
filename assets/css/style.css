@@ -28,7 +28,7 @@ header h1.a, h1.a:hover, h1.a:visited {
   width: 60%;
 }
 
-#content-wrapper p.a, p.a:hover, p.a:visited{
+a, a:hover, a:visited{
   font-weight: bold;
   text-decoration: none;
 }
