@@ -6,19 +6,19 @@ header{
 }
 
 header a, a:hover, a:visited {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   text-align: center;
   text-decoration: none;
 }
 
 header h1 {
   text-decoration: none;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   color: #243654;
 }
 
 header h1.a, h1.a:hover, h1.a:visited {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   text-align: center;
   text-decoration: none;
 }
@@ -57,6 +57,7 @@ header h1.a, h1.a:hover, h1.a:visited {
 }
 
 #content-wrapper h2{
+  font-family: 'Noto Sans', sans-serif;
   font-size: 16pt;
 }
 
