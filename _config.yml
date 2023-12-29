@@ -1,5 +1,4 @@
 title: Roy's Blog
 description: Programación y otras cosas
-theme: jekyll-theme-cayman
-github:
+theme: jekyll-theme-architect
   is_project_page: false
