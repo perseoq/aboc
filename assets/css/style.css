@@ -16,3 +16,9 @@ header h1 {
   text-decoration: none;
   color: #243654;
 }
+
+header h1.a:hover, h1.a:visited {
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  text-decoration: none;
+}
