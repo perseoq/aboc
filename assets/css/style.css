@@ -9,6 +9,9 @@ header{
 header a:hover, a:visited {
   font-family: 'Ubuntu', sans-serif;
   text-align: center;
+}
+
+header h1 {
   text-decoration: none;
-  color: green;
+  color: #2EFE64;
 }
