@@ -6,7 +6,7 @@ header{
   text-decoration: none;
 }
 
-header a:hover, a:visited {
+header a, a:hover, a:visited {
   font-family: 'Ubuntu', sans-serif;
   text-align: center;
   text-decoration: none;
@@ -17,7 +17,7 @@ header h1 {
   color: #243654;
 }
 
-header h1.a:hover, h1.a:visited {
+header h1.a, h1.a:hover, h1.a:visited {
   font-family: 'Ubuntu', sans-serif;
   text-align: center;
   text-decoration: none;
